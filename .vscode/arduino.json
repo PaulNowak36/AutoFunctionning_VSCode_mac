@@ -1,0 +1,5 @@
+{
+    "sketch": "AutoFunctionning_VSCode_mac.ino",
+    "board": "arduino:avr:uno",
+    "programmer": "avrispmkii"
+}
